@@ -40,8 +40,6 @@
 
 
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitabhanmolpain/rayku-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/output/snake.svg" alt="Snake animation" />
 </p>
