@@ -2,9 +2,8 @@
   <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/gif-header.gif" alt="Header GIF" width="1000" height="400" />
 </p>
 
-<p align="left">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/About.png" alt="About" width="180" height="180" />
-</p>
+<img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/About.png" alt="About" width="180" height="80" />
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
 <ul>
   <li>I'm a 3rd year student at Dayananda Sagar College of Engineering.</li>
@@ -14,15 +13,11 @@
   <li>Databases: <b>SQL</b>, <b>MongoDB</b></li>
 </ul>
 
-<p align="left" style="margin-top: 30px;">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Tools.png" alt="Tools" width="180" height="180" />
-</p>
+<img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Tools.png" alt="Tools" width="180" height="80" />
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
-<p align="left">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/web-development.png" alt="Web Development" width="180" height="180" />
-</p>
+<img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/web-development.png" alt="Web Development" width="180" height="80" />
 
-<!-- Web Development Icons -->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -44,18 +39,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left" style="margin-top: 16px;">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Others.png" alt="Others" width="120" height="120" />
-</p>
+<img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Others.png" alt="Others" width="120" height="60" />
 
-<!-- Others Icons -->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<p align="left" style="margin-top: 16px;">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Stats.png" alt="Stats" width="180" height="180" />
-</p>
+<img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Stats.png" alt="Stats" width="180" height="80" />
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
 <div align="center" style="background: linear-gradient(90deg, #43cea2, #185a9d); padding: 20px; border-radius: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=blue-green" alt="GitHub Stats" />
@@ -63,10 +54,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=blue-green" alt="Top Languages" />
 </div>
 
+<!-- REMOVED GIF ABOVE SNAKE CONTRIBUTION! -->
 <p align="center">
   <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/output/snake.svg" alt="Snake animation" />
 </p>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
+<!-- Connect section: icon on first line, icons on second line, all centered -->
 <p align="center">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Connect.png" alt="Connect" width="180" height="180" />
+  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Connect.png" alt="Connect" width="180" height="80" /><br>
+  <a href="https://www.linkedin.com/in/amitabh-anmol-pain-118308309/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" style="vertical-align:middle;" />
+  </a>
+  <img width="12" />
+  <a href="mailto:amitabhanmolpain888@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo" style="vertical-align:middle;" />
+  </a>
 </p>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
