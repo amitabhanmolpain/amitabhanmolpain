@@ -41,5 +41,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitabhanmolpain/amitabhanmolpain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </p>
