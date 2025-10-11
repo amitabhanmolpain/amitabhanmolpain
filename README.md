@@ -38,8 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=blue-green" alt="Top Languages" />
 </div>
 
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
