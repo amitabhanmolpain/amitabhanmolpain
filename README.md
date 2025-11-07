@@ -54,13 +54,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=blue-green" alt="Top Languages" />
 </div>
 
-<!-- REMOVED GIF ABOVE SNAKE CONTRIBUTION! -->
+[![Holopin](https://holopin.me/amitabhanmolpain)](https://holopin.io/@amitabhanmolpain)
+
+
 <p align="center">
   <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/output/snake.svg" alt="Snake animation" />
 </p>
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
-<!-- Connect section: icon on first line, icons on second line, all centered -->
+
 <p align="center">
   <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Connect.png" alt="Connect" width="180" height="80" /><br>
   <a href="https://www.linkedin.com/in/amitabh-anmol-pain-118308309/" target="_blank">
