@@ -48,14 +48,29 @@
 <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Stats.png" alt="Stats" width="180" height="80" />
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabhanmolpain&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
+<!-- Dynamic GitHub Readme Stats Cards -->
+<!-- These cards are generated dynamically using GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- You can customize themes by changing the 'theme' parameter (e.g., dark, radical, merko, gruvbox, tokyonight, etc.) -->
+<!-- Additional parameters: show_icons, hide_border, count_private, include_all_commits, langs_count, layout, etc. -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/amitabhanmolpain" rel="nofollow noreferrer noopener" target="_blank">
+        <img alt="Amitabha's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=default"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/" rel="nofollow noreferrer noopener" target="_blank">
+        <img alt="Top languages by usage for amitabhanmolpain" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=default"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amitabhanmolpain" rel="nofollow noreferrer noopener" target="_blank">
+        <img alt="GitHub streak stats for amitabhanmolpain" src="https://github-readme-streak-stats.herokuapp.com/?user=amitabhanmolpain&theme=default"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![Holopin](https://holopin.me/amitabhanmolpain)](https://holopin.io/@amitabhanmolpain)
 
