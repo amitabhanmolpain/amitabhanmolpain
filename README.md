@@ -48,10 +48,43 @@
 <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Stats.png" alt="Stats" width="180" height="80" />
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
-<div align="center" style="background: linear-gradient(90deg, #43cea2, #185a9d); padding: 20px; border-radius: 20px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=blue-green" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabhanmolpain&theme=blue-green" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=blue-green" alt="Top Languages" />
+<!-- 
+  Dynamic GitHub Stats Cards
+  These cards are generated dynamically from the GitHub Readme Stats services.
+  
+  Customization options:
+  - Themes: default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, etc.
+  - For GitHub Stats card: Add &hide=contribs,prs,issues to hide specific stats
+  - For Top Languages: Add &hide=html,css to hide specific languages
+  - For Streak Stats: Change theme parameter to match other cards
+  
+  More info: https://github.com/anuraghazra/github-readme-stats
+-->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Readme Stats: Shows overview stats like stars, commits, PRs, issues -->
+        <a href="https://github.com/amitabhanmolpain">
+          <img src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=default" alt="Amitabh's GitHub Stats - Overview of contributions, stars, and activity" />
+        </a>
+      </td>
+      <td>
+        <!-- GitHub Streak Stats: Shows current streak and longest streak -->
+        <a href="https://github.com/amitabhanmolpain">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabhanmolpain&theme=default" alt="Amitabh's GitHub Streak Stats - Current and longest contribution streaks" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Top Languages Card: Shows most used programming languages -->
+        <a href="https://github.com/amitabhanmolpain">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=default" alt="Amitabh's Most Used Languages - Distribution of programming languages in repositories" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 [![Holopin](https://holopin.me/amitabhanmolpain)](https://holopin.io/@amitabhanmolpain)
