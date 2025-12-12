@@ -61,18 +61,18 @@
   More info: https://github.com/anuraghazra/github-readme-stats
 -->
 <div align="center">
-  <table>
+  <table role="presentation">
     <tr>
       <td>
         <!-- GitHub Readme Stats: Shows overview stats like stars, commits, PRs, issues -->
         <a href="https://github.com/amitabhanmolpain">
-          <img src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=default" alt="Amitabh's GitHub Stats - Overview of contributions, stars, and activity" />
+          <img src="https://github-readme-stats.vercel.app/api?username=amitabhanmolpain&show_icons=true&theme=default" alt="Amitabh's GitHub Stats - Overview of contributions, stars, and activity" loading="lazy" />
         </a>
       </td>
       <td>
         <!-- GitHub Streak Stats: Shows current streak and longest streak -->
         <a href="https://github.com/amitabhanmolpain">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabhanmolpain&theme=default" alt="Amitabh's GitHub Streak Stats - Current and longest contribution streaks" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabhanmolpain&theme=default" alt="Amitabh's GitHub Streak Stats - Current and longest contribution streaks" loading="lazy" />
         </a>
       </td>
     </tr>
@@ -80,7 +80,7 @@
       <td colspan="2" align="center">
         <!-- Top Languages Card: Shows most used programming languages -->
         <a href="https://github.com/amitabhanmolpain">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=default" alt="Amitabh's Most Used Languages - Distribution of programming languages in repositories" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabhanmolpain&layout=compact&theme=default" alt="Amitabh's Most Used Languages - Distribution of programming languages in repositories" loading="lazy" />
         </a>
       </td>
     </tr>
