@@ -13,10 +13,6 @@
   <li>Databases: <b>SQL</b>, <b>MongoDB</b></li>
 </ul>
 
-
-
-
-
 <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Stats.png" alt="Stats" width="180" height="80" />
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
@@ -28,21 +24,31 @@
 
 [![Holopin](https://holopin.me/amitabhanmolpain)](https://holopin.io/@amitabhanmolpain)
 
-
 <p align="center">
   <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/output/snake.svg" alt="Snake animation" />
 </p>
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
 <p align="center">
   <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Connect.png" alt="Connect" width="180" height="80" /><br>
+
   <a href="https://www.linkedin.com/in/amitabh-anmol-pain-118308309/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" style="vertical-align:middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
-  <img width="12" />
+
+  <img width="15" />
+
   <a href="mailto:amitabhanmolpain888@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo" style="vertical-align:middle;" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo" />
   </a>
+
+  <img width="15" />
+
+  <a href="https://x.com/AnmolPain22790" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X (Twitter) logo" />
+  </a>
+
 </p>
+
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
