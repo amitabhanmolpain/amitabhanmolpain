@@ -4,11 +4,11 @@
 <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/About.png" alt="About" width="180" height="80" />
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 <ul>
-  <li>I'm a 3rd year student at Dayananda Sagar College of Engineering.</li>
-  <li>I'm a Full Stack Developer.</li>
-  <li>I usually work using <b>React</b>, <b>Next.js</b> for frontend and <b>Tailwind</b> for designing.</li>
-  <li>For backend I use <b>Node.js</b>, <b>Express</b>, <b>Flask</b> and <b>FastAPI</b>.</li>
-  <li>Databases: <b>SQL</b>, <b>MongoDB</b></li>
+  <li>4th year CSE student.</li>
+  <li>I'm a Backend Developer.</li>
+  <li>Would love to collaborate on open source projects.</li>
+  <li>Won 2X hackathons, and competed in Bolt Vibecoding and Walmart Sparkathon.</li>
+  <li>Currently mastering DSA & Golang.</li>
 </ul>
 <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Stats.png" alt="Stats" width="180" height="80" />
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
