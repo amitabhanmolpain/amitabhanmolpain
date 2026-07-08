@@ -31,22 +31,32 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="divider" width="100%" height="18" />
 
 <p align="center">
-  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Connect.png" alt="Connect" width="180" height="80" /><br>
+  <img src="https://github.com/amitabhanmolpain/amitabhanmolpain/blob/main/Connect.png" alt="Connect" width="180" height="80" /><br><br>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/amitabh-anmol-pain-118308309/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" alt="LinkedIn" />
   </a>
 
-  <img width="15" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- Gmail -->
   <a href="mailto:amitabhanmolpain888@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" alt="Gmail" />
   </a>
 
-  <img width="15" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- X (Twitter) -->
   <a href="https://x.com/AnmolPain22790" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X (Twitter) logo" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="X (Twitter)" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://amitabh-anmol-pain.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Portfolio" />
   </a>
 
 </p>
